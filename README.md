@@ -1,4 +1,4 @@
-# Download-the-fasta-sequence-using-perl
+# Download-the-fasta-sequence-from-ncbi-by-using-perl
 This is help to download the fasta files from an NCBI without using BIO::Perl module. 
 
 Check wheather the LWP::Simple module was installed or not.
