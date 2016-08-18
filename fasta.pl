@@ -1,5 +1,5 @@
 use LWP::Simple;
-my $filename = "acc.txt";
+my $filename = "input.txt";
 
 open my $fh, "<", $filename or die "Can't open file $!";
 
