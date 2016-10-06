@@ -4,8 +4,9 @@ This is help to download the fasta files from the NCBI database without using BI
 Check wheather the LWP::Simple module was installed or not.
 
 If the LWP::Simple module was not exist in your system go to terminal or Command Prompt (CMD) type the following command
-cpan install LWP::Simple
 
-In the script the example input file name is input.txt
+"cpan install LWP::Simple"
+
+For the script the example input file name is input.txt
 
 
